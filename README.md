@@ -8,3 +8,4 @@ Topics covered:
 - [x] Sync with the Android device as well, using git 
 
 Pushing with Android hostname in commit message
+Pushing with Windows hostname in commit message
