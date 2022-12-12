@@ -5,4 +5,4 @@ Topics covered:
 2. Food
 3. Technology
 
-- [ ] Sync with the Android device as well, using git 
+- [x] Sync with the Android device as well, using git 
