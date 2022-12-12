@@ -1,3 +1,12 @@
 {
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "wip",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "build-site/"
+  ],
+  "showLineNumber": false,
+  "spellcheck": false
 }
