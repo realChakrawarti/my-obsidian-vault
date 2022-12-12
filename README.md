@@ -6,3 +6,5 @@ Topics covered:
 3. Technology
 
 - [x] Sync with the Android device as well, using git 
+
+Pushing with Android hostname in commit message
