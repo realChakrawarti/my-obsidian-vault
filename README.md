@@ -4,3 +4,5 @@ Topics covered:
 1. Psychology
 2. Food
 3. Technology
+
+- [ ] Sync with the Android device as well, using git 
