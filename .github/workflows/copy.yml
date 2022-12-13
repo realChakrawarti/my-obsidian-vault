@@ -18,6 +18,7 @@ jobs:
         with:
           source_file: "build/" # Folder to copy
           destination_repo: "realChakrawarti/devchef" # Target repo
+          destination_branch: "production" # Target branch
           destination_folder: "docs/" # Folder where to copy it
           user_email: "anupam.chakrawarti@outlook.com"
           user_name: "realChakrawarti"
