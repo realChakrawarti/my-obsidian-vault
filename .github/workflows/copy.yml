@@ -1,0 +1,25 @@
+on:
+  workflow_dispatch:
+
+name: ⏫ Copy content to another Repo
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Copy the 'post' folder
+      - name: Push posts
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: "build/" # Folder to copy
+          destination_repo: "realChakrawarti/devchef" # Target repo
+          destination_folder: "docs/" # Folder where to copy it
+          user_email: "anupam.chakrawarti@outlook.com"
+          user_name: "realChakrawarti"
+          commit_message: "gh_action: copy posts obsidian vault"
+          git_server: "github.com"
