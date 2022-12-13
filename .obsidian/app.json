@@ -1,12 +1,15 @@
 {
   "showFrontmatter": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "wip",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
   "userIgnoreFilters": [
     "publish/"
   ],
   "showLineNumber": false,
-  "spellcheck": false
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ]
 }

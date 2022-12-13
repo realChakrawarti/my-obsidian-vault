@@ -11,8 +11,12 @@
             "id": "279cd58976e886eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -130,23 +138,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "active": "8d20c396e1eb755e",
   "lastOpenFiles": [
-    "journal/2022-12-13.md",
     "notes/How to setup Obsidian with GitHub on Windows and Android.md",
-    "publish/test file 2.md",
-    "wip/GitHub Action.md",
-    "publish/test file.md",
-    "templates/template.md",
-    "README.md",
-    "notes/How to take right decisions.md",
-    "journal/---.md"
+    "journal/2022/50/13th December.md",
+    "templates/daily-note.md",
+    "journal/2022-12-13.md",
+    "journal/2022/December/13th-Tuesday.md",
+    "journal/2022/December/13.md",
+    "journal/2022/Dec/13.md",
+    "wip/2022-12-13.md",
+    "archive/GitHub Action.md",
+    "publish/test file 2.md"
   ]
 }
