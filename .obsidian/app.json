@@ -5,7 +5,7 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
   "userIgnoreFilters": [
-    "build-site/"
+    "publish/"
   ],
   "showLineNumber": false,
   "spellcheck": false

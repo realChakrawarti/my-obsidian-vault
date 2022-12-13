@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6184539b290e8fab",
+        "id": "5887e8829be62750",
         "type": "tabs",
         "children": [
           {
-            "id": "03214da954df61bd",
+            "id": "279cd58976e886eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/technology/How to setup Obsidian with GitHub on Windows and Android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13ba0e8cadb138f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "build/test file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "build/test file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "build/test file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,23 +118,35 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "build/test file.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "6b6c08349b6efc3a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 372.5,
     "collapsed": true
   },
-  "active": "13ba0e8cadb138f7",
+  "active": "8d20c396e1eb755e",
   "lastOpenFiles": [
-    "content/technology/How to setup Obsidian with GitHub on Windows and Android.md",
+    "journal/2022-12-13.md",
+    "notes/How to setup Obsidian with GitHub on Windows and Android.md",
+    "publish/test file 2.md",
+    "wip/GitHub Action.md",
+    "publish/test file.md",
+    "templates/template.md",
     "README.md",
-    "content/psychology/How to take right decisions.md",
+    "notes/How to take right decisions.md",
     "journal/---.md"
   ]
 }

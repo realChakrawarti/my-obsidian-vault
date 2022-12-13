@@ -24,3 +24,5 @@ Pre-requisite:
 7. Install Obsidian Git plugin from Community Plugins
 8. Screenshot of setup
 
+https://github.com/dmnemec/copy_file_to_another_repo_action
+How to use this [[GitHub Action]] https://github.com/DominiqueMakowski/DominiqueMakowski.github.io/blob/master/.github/workflows/copy_content.yml
