@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
 
-name: ⏫ Copy content to another Repo
+name: Publish to DevChef
 
 jobs:
   copy-file:
@@ -16,11 +16,11 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: "build/" # Folder to copy
+          source_file: "publish/." # Folder to copy
           destination_repo: "realChakrawarti/devchef" # Target repo
           destination_branch: "production" # Target branch
           destination_folder: "docs/" # Folder where to copy it
           user_email: "anupam.chakrawarti@outlook.com"
           user_name: "realChakrawarti"
-          commit_message: "gh_action: copy posts obsidian vault"
+          commit_message: "[GitHub Action] Updated from Vault"
           git_server: "github.com"
