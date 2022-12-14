@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5887e8829be62750",
+        "id": "7e58dd4cdd54e8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "279cd58976e886eb",
+            "id": "b345b33cf0746fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "journal/2022/W50/14th December.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "journal/2022/W50/14th December.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "journal/2022/W50/14th December.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "journal/2022/W50/14th December.md"
               }
             }
           },
@@ -138,23 +138,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 372.5
   },
-  "active": "8d20c396e1eb755e",
+  "active": "b345b33cf0746fc5",
   "lastOpenFiles": [
-    "notes/How to setup Obsidian with GitHub on Windows and Android.md",
+    "journal/2022/W50/13th December.md",
+    "journal/2022/W50/14th December.md",
     "journal/2022/50/13th December.md",
+    "archive/DevChef.md",
+    "README.md",
+    "notes/How to setup Obsidian with GitHub on Windows and Android.md",
     "templates/daily-note.md",
     "journal/2022-12-13.md",
     "journal/2022/December/13th-Tuesday.md",
-    "journal/2022/December/13.md",
-    "journal/2022/Dec/13.md",
-    "wip/2022-12-13.md",
-    "archive/GitHub Action.md",
-    "publish/test file 2.md"
+    "journal/2022/December/13.md"
   ]
 }
