@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/W50/15th December.md",
+                "file": "journal/2022/W50/16th December - Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/W50/15th December.md",
+                "file": "journal/2022/W50/16th December - Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/W50/15th December.md",
+                "file": "journal/2022/W50/16th December - Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/W50/15th December.md"
+                "file": "journal/2022/W50/16th December - Friday.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b345b33cf0746fc5",
   "lastOpenFiles": [
-    "journal/2022/W50/14th December.md",
-    "journal/2022/W50/13th December.md",
-    "journal/2022/W50/15th December.md",
+    "journal/2022/W50/16th December - Friday.md",
+    "journal/2022/W50/15th December  - Thursday.md",
+    "journal/2022/W50/14th December - Wednesday.md",
+    "journal/2022/W50/13th December - Tuesday.md",
+    "journal/2022/W50/16th December.md",
     "journal/2022/50/13th December.md",
     "archive/DevChef.md",
     "README.md",
     "notes/How to setup Obsidian with GitHub on Windows and Android.md",
-    "templates/daily-note.md",
-    "journal/2022-12-13.md",
-    "journal/2022/December/13th-Tuesday.md"
+    "templates/daily-note.md"
   ]
 }
