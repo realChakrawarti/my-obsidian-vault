@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "journal/2022/W50/16th December - Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "journal/2022/W50/16th December - Friday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "journal/2022/W50/16th December - Friday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,13 +114,26 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "journal/2022/W50/16th December - Friday.md"
           }
+        }
+      },
+      {
+        "id": "068dd0992650bbc3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
   "active": "428d0b0ece08f3fd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "journal/2022/W50/17th December - Saturday.md",
+    "journal/2022/W50/14th December.md",
+    "README.md",
+    "archive/Untitled.md"
+  ]
 }
