@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e58dd4cdd54e8c3",
+        "id": "e34e6476a9bf0dda",
         "type": "tabs",
         "children": [
           {
-            "id": "b345b33cf0746fc5",
+            "id": "0a20b24b30f6b252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/W50/17th December - Saturday.md",
+                "file": "journal/2022/W50/18th December - Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/W50/17th December - Saturday.md",
+                "file": "journal/2022/W50/18th December - Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/W50/17th December - Saturday.md",
+                "file": "journal/2022/W50/18th December - Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/W50/17th December - Saturday.md"
+                "file": "journal/2022/W50/18th December - Sunday.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 372.5
   },
-  "active": "b345b33cf0746fc5",
+  "active": "0a20b24b30f6b252",
   "lastOpenFiles": [
     "journal/2022/W50/13th December - Tuesday.md",
     "journal/2022/W50/14th December - Wednesday.md",
     "journal/2022/W50/15th December  - Thursday.md",
     "journal/2022/W50/16th December - Friday.md",
+    "archive/DevChef.md",
+    "notes/How to take right decisions.md",
+    "notes/How to setup Obsidian with GitHub on Windows and Android.md",
     "journal/2022/W50/17th December - Saturday.md",
     "journal/2022/W50/16th December.md",
-    "journal/2022/50/13th December.md",
-    "archive/DevChef.md",
-    "README.md",
-    "notes/How to setup Obsidian with GitHub on Windows and Android.md"
+    "journal/2022/50/13th December.md"
   ]
 }
