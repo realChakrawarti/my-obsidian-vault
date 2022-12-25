@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022/W50/18th December - Sunday.md",
+                "file": "journal/2022/W51/24th December - Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/W50/18th December - Sunday.md",
+                "file": "journal/2022/W51/24th December - Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022/W50/18th December - Sunday.md",
+                "file": "journal/2022/W51/24th December - Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/W50/18th December - Sunday.md"
+                "file": "journal/2022/W51/24th December - Saturday.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "0a20b24b30f6b252",
   "lastOpenFiles": [
+    "journal/2022/W50/18th December - Sunday.md",
     "journal/2022/W50/13th December - Tuesday.md",
     "journal/2022/W50/14th December - Wednesday.md",
     "journal/2022/W50/15th December  - Thursday.md",
@@ -154,7 +155,6 @@
     "notes/How to take right decisions.md",
     "notes/How to setup Obsidian with GitHub on Windows and Android.md",
     "journal/2022/W50/17th December - Saturday.md",
-    "journal/2022/W50/16th December.md",
-    "journal/2022/50/13th December.md"
+    "journal/2022/W50/16th December.md"
   ]
 }

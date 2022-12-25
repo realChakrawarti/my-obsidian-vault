@@ -24,3 +24,18 @@ jobs:
           user_name: "realChakrawarti"
           commit_message: "[GitHub Action] Updated from Vault"
           git_server: "github.com"
+
+      # Copy the 'Journal' folder
+      - name: Push Journal
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: "journal/." # Folder to copy
+          destination_repo: "realChakrawarti/devchef" # Target repo
+          destination_branch: "production" # Target branch
+          destination_folder: "journal/" # Folder where to copy it
+          user_email: "anupam.chakrawarti@outlook.com"
+          user_name: "realChakrawarti"
+          commit_message: "[GitHub Action] Updated from Vault"
+          git_server: "github.com"
